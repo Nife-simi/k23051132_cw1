@@ -10,6 +10,8 @@
 
 **final.py:** The final script that contains the fine-tuned Gradient Boosting Regressor model, which is used to generate the final predictions for the test dataset.
 
+**final_model.pkl:** The final fine-tuned Gradient Boosting Regressor model.
+
 **gbr.py:** The script that evaluates the performance of the Gradient Boosting Regressor model.
 
 **ridge.py:** The script that evaluates the performance of the Ridge Regression model.
